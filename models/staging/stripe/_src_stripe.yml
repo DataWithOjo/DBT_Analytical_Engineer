@@ -2,6 +2,5 @@ version: 2
 
 sources:
   - name: stripe
-    database_name: raw
     tables:
       - name: payment
