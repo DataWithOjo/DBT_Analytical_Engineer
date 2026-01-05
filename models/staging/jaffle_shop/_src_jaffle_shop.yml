@@ -17,7 +17,7 @@ sources:
         description: Raw orders data
         columns:
           - name: id
-            description: primary key for orders dta
+            description: primary key for orders data
             data_tests:
               - unique
               - not_null 
